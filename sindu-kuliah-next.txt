@@ -8,5 +8,6 @@ Rencana Kuliah NEXT
 -LULUS
 -WISUDA
 -PACARAN
+ *kentu
 -KERJA
 -NIKAH
