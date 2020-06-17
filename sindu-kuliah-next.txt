@@ -1,6 +1,8 @@
 Rencana Kuliah NEXT
 
 -SKRIPSI
+  *sidang proposal
+  *proposal diterima
 -LULUS
 -WISUDA
 -KERJA
