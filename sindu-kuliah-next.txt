@@ -3,7 +3,11 @@ Rencana Kuliah NEXT
 -SKRIPSI
   *sidang proposal
   *proposal diterima
+  *bayar duit
 -LIBURAN
 -LULUS
 -WISUDA
+-PACARAN
+ *kentu
 -KERJA
+-NIKAH
