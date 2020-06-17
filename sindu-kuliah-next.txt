@@ -3,7 +3,9 @@ Rencana Kuliah NEXT
 -SKRIPSI
   *sidang proposal
   *proposal diterima
--LIBURAN
+  *gagal
+
 -LULUS
 -WISUDA
+-NIKAH
 -KERJA
